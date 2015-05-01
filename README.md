@@ -2,7 +2,7 @@
 
 Local [BOA](https://github.com/omega8cc/boa) using [Vagrant](https://www.vagrantup.com/).
 
-Thanks to [theodorosploumis](https://github.com/theodorosploumis) for [figuring out how to do this]((https://github.com/omega8cc/boa/wiki/Local-BOA-with-Vagrant).
+Thanks to [theodorosploumis](https://github.com/theodorosploumis) for [figuring out how to do this](https://github.com/omega8cc/boa/wiki/Local-BOA-with-Vagrant).
 
 ## Requirements
 
